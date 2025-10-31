@@ -24,7 +24,7 @@
 
 ## 💼 What I Bring to Your Project
 
-🎯 **5+ Years of Development Experience** delivering robust, scalable solutions  
+🎯 **8+ Years of Development Experience** delivering robust, scalable solutions  
 🚀 **Full-Stack Expertise** from database design to user interface  
 💡 **Problem Solver** who turns complex requirements into elegant code  
 ⚡ **Fast Delivery** with clean, maintainable, and well-documented code  
@@ -122,10 +122,10 @@
 ### 🚀 Ready to Start Your Project?
 
 **I'm available for:**
-- Full-time remote positions
-- Freelance projects
-- Technical consultations
-- Long-term partnerships
+Full-time remote positions
+Freelance projects
+Technical consultations
+Long-term partnerships
 
 <p>
   <a href="mailto:jaydipkhunt90@gmail.com">
