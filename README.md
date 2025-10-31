@@ -122,10 +122,10 @@
 ### 🚀 Ready to Start Your Project?
 
 **I'm available for:**
-Full-time remote positions
-Freelance projects
-Technical consultations
-Long-term partnerships
+- Full-time remote positions
+- Freelance projects
+- Technical consultations
+- Long-term partnerships
 
 <p>
   <a href="mailto:jaydipkhunt90@gmail.com">
